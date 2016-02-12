@@ -1,0 +1,98 @@
+    body {
+      background: url("images/hills.jpg");
+      no-repeat center center fixed;
+      background-size: cover;
+      padding: 10;
+      margin: 10;
+      font-family: Sans-Serif;
+      font-size: 12px;
+    }
+    
+    p2 {
+      padding: 10;
+      margin: 10;
+      font-family: Sans-Serif;
+      font-size: 12px;
+    }
+    
+    p3 {
+      color: white;
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+    
+    p4 {
+      color: #0000FF;
+      text-decoration: underline;
+    }
+    
+    canvas {
+      vertical-align: top;
+    }
+    
+    #spotify {
+      position: absolute;
+      left: 20px;
+      top: 190px;
+    }
+    
+    #soundcloud {
+      position: absolute;
+      left: 20px;
+      top: 190px;
+    }
+    
+    .hidden {
+      display: none;
+    }
+    
+    .unhidden {
+      display: block;
+    }
+    
+    button1 {
+      padding: 7px 7px 7px 25px;
+      border: 1px solid #666;
+      color: #000;
+      text-decoration: none;
+      background: #dcdcdc url(images/multiple.png) no-repeat scroll 5px center;
+    }
+    
+    button1:hover {
+      background-color: #FF69B4;
+    }
+    
+    button2 {
+      padding: 7px 7px 7px 25px;
+      border: 1px solid #666;
+      color: #000;
+      text-decoration: none;
+      background: #dcdcdc url(images/poster.png) no-repeat scroll 5px center;
+    }
+    
+    button2:hover {
+      background-color: #FF69B4;
+    }
+    
+    button {
+      padding: 7px 7px 7px 25px;
+      border: 1px solid #666;
+      color: #000;
+      text-decoration: underline;
+      background: #dcdcdc url(images/booklet.png) no-repeat scroll 5px center;
+    }
+    
+    button:hover {
+      background-color: #FF69B4;
+    }
+    
+    button4 {
+      padding: 7px 7px 7px 25px;
+      border: 1px solid #666;
+      color: #000;
+      text-decoration: none;
+      background: #dcdcdc url(images/size.png) no-repeat scroll 5px center;
+    }
+    
+    button4:hover {
+      background-color: #FF69B4;
+    }
